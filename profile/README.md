@@ -1,4 +1,4 @@
-## Hi there 👋
+# UPRM RUMblebots Combact Robots Team <img src = "img/rum_upr_web.jpg"> 
 
 <!--
 
