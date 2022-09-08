@@ -1,4 +1,4 @@
-# UPRM RUMblebots Combact Robots Team <img src = "https://github.com/RUMblebots-Software/.github/blob/main/profile/img/rum_upr_web.png"> 
+# UPRM RUMblebots Combact Robots Team <img src = "https://github.com/RUMblebots-Software/.github/blob/main/profile/img/seal-rum-uprm-1280x1280px.png"> 
 
 <!--
 
